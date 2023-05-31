@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Films-Kayumov-E/static/css/main.3cbc0983.css",
+    "main.js": "/Films-Kayumov-E/static/js/main.31a915a2.js",
+    "index.html": "/Films-Kayumov-E/index.html",
+    "main.3cbc0983.css.map": "/Films-Kayumov-E/static/css/main.3cbc0983.css.map",
+    "main.31a915a2.js.map": "/Films-Kayumov-E/static/js/main.31a915a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cbc0983.css",
+    "static/js/main.31a915a2.js"
+  ]
+}
